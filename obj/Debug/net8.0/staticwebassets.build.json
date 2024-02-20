@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "e28sUrDo5mQ5iQw+8tX0WCiatRJnpf+13TeOVptpQqo=",
+  "Source": "Jwt token example",
+  "BasePath": "_content/Jwt token example",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Jwt token example\\wwwroot",
+      "Source": "Jwt token example",
+      "ContentRoot": "D:\\Code\\LinhTinh\\UploadFileToWebAPI\\wwwroot\\",
+      "BasePath": "_content/Jwt token example",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

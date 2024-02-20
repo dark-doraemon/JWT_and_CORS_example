@@ -1,0 +1,44 @@
+D:\Code\LinhTinh\UploadFileToWebAPI\bin\Debug\net8.0\appsettings.Development.json
+D:\Code\LinhTinh\UploadFileToWebAPI\bin\Debug\net8.0\appsettings.json
+D:\Code\LinhTinh\UploadFileToWebAPI\bin\Debug\net8.0\Jwt token example.staticwebassets.runtime.json
+D:\Code\LinhTinh\UploadFileToWebAPI\bin\Debug\net8.0\Jwt token example.exe
+D:\Code\LinhTinh\UploadFileToWebAPI\bin\Debug\net8.0\Jwt token example.deps.json
+D:\Code\LinhTinh\UploadFileToWebAPI\bin\Debug\net8.0\Jwt token example.runtimeconfig.json
+D:\Code\LinhTinh\UploadFileToWebAPI\bin\Debug\net8.0\Jwt token example.dll
+D:\Code\LinhTinh\UploadFileToWebAPI\bin\Debug\net8.0\Jwt token example.pdb
+D:\Code\LinhTinh\UploadFileToWebAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Code\LinhTinh\UploadFileToWebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Code\LinhTinh\UploadFileToWebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Code\LinhTinh\UploadFileToWebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Code\LinhTinh\UploadFileToWebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Code\LinhTinh\UploadFileToWebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Code\LinhTinh\UploadFileToWebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Code\LinhTinh\UploadFileToWebAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Code\LinhTinh\UploadFileToWebAPI\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Code\LinhTinh\UploadFileToWebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Code\LinhTinh\UploadFileToWebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Code\LinhTinh\UploadFileToWebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Code\LinhTinh\UploadFileToWebAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Code\LinhTinh\UploadFileToWebAPI\obj\Debug\net8.0\Jwt token example.csproj.AssemblyReference.cache
+D:\Code\LinhTinh\UploadFileToWebAPI\obj\Debug\net8.0\Jwt token example.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\LinhTinh\UploadFileToWebAPI\obj\Debug\net8.0\Jwt token example.AssemblyInfoInputs.cache
+D:\Code\LinhTinh\UploadFileToWebAPI\obj\Debug\net8.0\Jwt token example.AssemblyInfo.cs
+D:\Code\LinhTinh\UploadFileToWebAPI\obj\Debug\net8.0\Jwt token example.csproj.CoreCompileInputs.cache
+D:\Code\LinhTinh\UploadFileToWebAPI\obj\Debug\net8.0\Jwt token example.MvcApplicationPartsAssemblyInfo.cs
+D:\Code\LinhTinh\UploadFileToWebAPI\obj\Debug\net8.0\Jwt token example.MvcApplicationPartsAssemblyInfo.cache
+D:\Code\LinhTinh\UploadFileToWebAPI\obj\Debug\net8.0\Jwt token example.RazorAssemblyInfo.cache
+D:\Code\LinhTinh\UploadFileToWebAPI\obj\Debug\net8.0\Jwt token example.RazorAssemblyInfo.cs
+D:\Code\LinhTinh\UploadFileToWebAPI\obj\Debug\net8.0\staticwebassets.build.json
+D:\Code\LinhTinh\UploadFileToWebAPI\obj\Debug\net8.0\staticwebassets.development.json
+D:\Code\LinhTinh\UploadFileToWebAPI\obj\Debug\net8.0\staticwebassets\msbuild.Jwt token example.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Code\LinhTinh\UploadFileToWebAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.Jwt token example.props
+D:\Code\LinhTinh\UploadFileToWebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Jwt token example.props
+D:\Code\LinhTinh\UploadFileToWebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Jwt token example.props
+D:\Code\LinhTinh\UploadFileToWebAPI\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Code\LinhTinh\UploadFileToWebAPI\obj\Debug\net8.0\scopedcss\bundle\Jwt token example.styles.css
+D:\Code\LinhTinh\UploadFileToWebAPI\obj\Debug\net8.0\Jwt token example.csproj.CopyComplete
+D:\Code\LinhTinh\UploadFileToWebAPI\obj\Debug\net8.0\Jwt token example.dll
+D:\Code\LinhTinh\UploadFileToWebAPI\obj\Debug\net8.0\refint\Jwt token example.dll
+D:\Code\LinhTinh\UploadFileToWebAPI\obj\Debug\net8.0\Jwt token example.pdb
+D:\Code\LinhTinh\UploadFileToWebAPI\obj\Debug\net8.0\Jwt token example.genruntimeconfig.cache
+D:\Code\LinhTinh\UploadFileToWebAPI\obj\Debug\net8.0\ref\Jwt token example.dll
