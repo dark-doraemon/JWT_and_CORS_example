@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "Hash": "e28sUrDo5mQ5iQw+8tX0WCiatRJnpf+13TeOVptpQqo=",
-  "Source": "Jwt token example",
-  "BasePath": "_content/Jwt token example",
+  "Hash": "j/J+hg1oFkam8h8R2J9IGZsE/xyxNqyT7ABbrJDy6Sw=",
+  "Source": "JwtTokenAndCORS_example",
+  "BasePath": "_content/JwtTokenAndCORS_example",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [
     {
-      "Name": "Jwt token example\\wwwroot",
-      "Source": "Jwt token example",
+      "Name": "JwtTokenAndCORS_example\\wwwroot",
+      "Source": "JwtTokenAndCORS_example",
       "ContentRoot": "D:\\Code\\LinhTinh\\UploadFileToWebAPI\\wwwroot\\",
-      "BasePath": "_content/Jwt token example",
+      "BasePath": "_content/JwtTokenAndCORS_example",
       "Pattern": "**"
     }
   ],

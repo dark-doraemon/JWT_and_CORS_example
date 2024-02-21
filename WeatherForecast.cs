@@ -1,4 +1,4 @@
-namespace UploadFileToWebAPI
+namespace JwtTokenAndCORS_example
 {
     public class WeatherForecast
     {

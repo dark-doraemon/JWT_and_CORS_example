@@ -25,3 +25,11 @@ build_metadata.AdditionalFiles.CssScope =
 [D:/Code/LinhTinh/UploadFileToWebAPI/Views/CallAPI/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FsbEFQSVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Code/LinhTinh/UploadFileToWebAPI/Views/Login/FlightReservation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cRmxpZ2h0UmVzZXJ2YXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Code/LinhTinh/UploadFileToWebAPI/Views/Login/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 

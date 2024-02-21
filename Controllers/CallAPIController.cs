@@ -5,10 +5,11 @@ using Newtonsoft.Json;
 using System.IdentityModel.Tokens.Jwt;
 using System.Net.Http.Headers;
 using System.Security.Claims;
+using System.Security.Cryptography;
 using System.Text;
-using UploadFileToWebAPI.Models;
+using JwtTokenAndCORS_example.Models;
 
-namespace UploadFileToWebAPI.Controllers
+namespace JwtTokenAndCORS_example.Controllers
 {
     public class CallAPIController : Controller
     {
@@ -48,7 +49,7 @@ namespace UploadFileToWebAPI.Controllers
             return RedirectToAction("FlightReservation");
         }
 
-        private string GenerateJSONWebToken(Claim[] claims)
+        public string GenerateJSONWebToken(Claim[] claims)
         {
             var securityKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes("counterlogic_counterlogiccounterlogic_counterlogic"));
             var credentials = new SigningCredentials(securityKey, SecurityAlgorithms.HmacSha256);
@@ -82,7 +83,7 @@ namespace UploadFileToWebAPI.Controllers
 
         public async Task<IActionResult> FlightReservation()
         {
-            //khi gọi tới api này thì nó lấy cookie trong request nó gửi tới
+            //khi gọi tới api này thì nó lấy cookie trong request mà nó gửi tới
             var jwt = Request.Cookies["jwtCookie"];
 
             List<Reservation> reservationList = new List<Reservation>();
@@ -113,6 +114,26 @@ namespace UploadFileToWebAPI.Controllers
             return View(reservationList);
         }
 
+        private string CreateRefreshToken()
+        {
+            var randomNumber = new byte[32];//32 byte là 1 kí tự => 32byte là 32 kí tự
+            using (var generator = new RNGCryptoServiceProvider())
+            {
+                generator.GetBytes(randomNumber);
+                string token = Convert.ToBase64String(randomNumber);
+                return token;
+            }
+        }
+
+        private void SetRefreshTokenToCookie(string refreshToken)
+        {
+            var cookieOptions = new CookieOptions
+            {
+                HttpOnly = true,
+                Expires = DateTime.UtcNow.AddDays(7), // one week expiry time
+            };
+            Response.Cookies.Append("refreshToken", refreshToken, cookieOptions);
+        }
 
     }
 }

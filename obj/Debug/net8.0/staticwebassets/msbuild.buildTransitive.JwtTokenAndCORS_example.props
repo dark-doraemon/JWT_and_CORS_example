@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\JwtTokenAndCORS_example.props" />
+</Project>

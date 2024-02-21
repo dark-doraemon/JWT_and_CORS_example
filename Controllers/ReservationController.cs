@@ -1,12 +1,13 @@
 ﻿using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
-using UploadFileToWebAPI.Models;
+using JwtTokenAndCORS_example.Models;
 
 namespace UploadFileToWebAPI.Controllers
 {
     [Route("[controller]")]
     [ApiController]
-    [Authorize(Roles = "Manager")]//bảo mật api bằng JWT authentication
+    //[Authorize(Roles = "Manager")]//bảo mật api bằng JWT authentication
+    [Authorize]
     public class ReservationController : ControllerBase
     {
         //Dummy data

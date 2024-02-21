@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace UploadFileToWebAPI.Controllers
+namespace JwtTokenAndCORS_example.Controllers
 {
     [ApiController]
     [Route("[controller]")]

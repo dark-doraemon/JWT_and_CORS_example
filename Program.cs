@@ -113,7 +113,7 @@ namespace UploadFileToWebAPI
             app.MapControllerRoute(
                 name: "default",
                 pattern: "{controller}/{action}/{id?}",
-                defaults: new { Controller = "CallAPI", Action = "Index" });
+                defaults: new { Controller = "Login", Action = "Index" });
 
             app.Run();
         }

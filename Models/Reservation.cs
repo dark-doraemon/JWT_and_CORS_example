@@ -1,4 +1,4 @@
-﻿namespace UploadFileToWebAPI.Models
+﻿namespace JwtTokenAndCORS_example.Models
 {
     public class Reservation
     {
